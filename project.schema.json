@@ -1,0 +1,52 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "ProjectFileData", 
+    "properties": {
+        "data": {
+            "type": "array", 
+            "items": {
+                "type": "object", 
+                "properties": {
+                    "id": {"type": "string"}, 
+                    "title": {"type": "string"},
+                    "startDate": {"type": "number"}, 
+                    "endDate": {"type": "number"} ,
+                    "type": {"enum": ["craft", "web-app", "desktop-app"]}, 
+                    "taskSize": {"enum": ["small", "medium", "large", "xlarge"]} , 
+                    "complexity": {"enum": ["easy", "medium", "difficult"]}, 
+                    "status": {"enum": ["brainstorming", "inprogress", "complete", "released", "dropped"]}, 
+                    "git": {"type": "string"}, 
+                    "url": {"type": "string"}, 
+                    "summary": {"type": "string"}, 
+                    "makeupLayers": {
+                        "type": "array", 
+                        "items": {
+                            "type": "object",
+                            "properties": {
+                                "name": {"type": "string"},
+                                "items": {
+                                    "type": "array", 
+                                    "items": {
+                                        "type": "object", 
+                                        "properties": {
+                                            "tech": {"type": "string"}, 
+                                            "percentage": {"type": "number", "description": "Out of 100"}
+                                        }, 
+                                        "additionalProperties": false, 
+                                        "minProperties": 2
+                                    }
+                                }
+                            }, 
+                            "minProperties": 2, 
+                            "additionalProperties": false
+                        }, 
+                        "minItems": 1
+                    }
+                }, 
+                "required": [
+                    "id",  "title",  "startDate",  "endDate",  "type",  "taskSize",  "complexity",  "status",  "summary",  "makeupLayers" 
+                ]
+            }
+        }
+    }
+}

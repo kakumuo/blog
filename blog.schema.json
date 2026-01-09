@@ -1,0 +1,21 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/schema",
+	"title": "BlogFileData",
+	"type": "object", 
+	"properties": {
+		"data": {
+			"type": "array", 
+			"items": {
+				"type": "object", 
+				"properties": {
+					"title": {"type": "string"}, 
+					"id": {"type": "string"}, 
+					"createDate": {"type": "number"}, 
+					"tags": {"type": "array", "items": {"type":"string"}}, 
+					"summary": {"type": "string"}
+				}, 
+				"required": ["title", "id", "createDate", "tags", "summary"]
+			}
+		}
+	}
+}

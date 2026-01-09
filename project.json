@@ -1,0 +1,22 @@
+{
+    "$schema": "./project.schema.json", 
+    "data": [
+        {
+            "id": "personal-site", 
+            "title": "Portfolio Site", 
+            "summary": "A simple portfolio site",
+            "startDate": 12345677, 
+            "endDate": 12345677, 
+
+            "complexity": "medium", 
+            "status": "inprogress", 
+            "taskSize": "large", 
+            "type": "web-app", 
+
+            "makeupLayers": [
+                {"name": "Frontend", "items": [{"tech": "React", "percentage": 100}]}, 
+                {"name": "Backend", "items": [{"tech": "GIT", "percentage": 100}]}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "$schema": "./blog.schema.json", 
+    "data": [
+        {
+            "id": "about-me", 
+            "title": "About Me",
+            "createDate": 123432, 
+            "summary": "An introductory post about myself", 
+            "tags": ["info"]
+        }
+    ] 
+}
