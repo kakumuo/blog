@@ -17,6 +17,7 @@
                     "status": {"enum": ["brainstorming", "inprogress", "complete", "released", "dropped"]}, 
                     "git": {"type": "string"}, 
                     "url": {"type": "string"}, 
+                    "hasPost": {"type": "boolean"}, 
                     "summary": {"type": "string"}, 
                     "makeupLayers": {
                         "type": "array", 
@@ -44,7 +45,7 @@
                     }
                 }, 
                 "required": [
-                    "id",  "title",  "startDate",  "endDate",  "type",  "taskSize",  "complexity",  "status",  "summary",  "makeupLayers" 
+                    "id",  "title",  "startDate",  "endDate",  "type",  "taskSize",  "complexity",  "status",  "summary",  "makeupLayers" , "hasPost"
                 ]
             }
         }

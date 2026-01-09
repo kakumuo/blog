@@ -6,7 +6,8 @@
             "title": "Portfolio Site", 
             "summary": "A simple portfolio site",
             "startDate": 12345677, 
-            "endDate": 12345677, 
+            "endDate": 12345677,
+            "hasPost": true, 
 
             "complexity": "medium", 
             "status": "inprogress", 
