@@ -8,7 +8,8 @@
             "startDate": 12345677, 
             "endDate": 12345677,
             "hasPost": true, 
-
+            "git": "https://github.com/kakumuo/portfolio",
+            "url": "https://kakumuo.github.io/portfolio/",
             "complexity": "medium", 
             "status": "inprogress", 
             "taskSize": "large", 
