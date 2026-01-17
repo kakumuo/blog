@@ -1,2 +1,6 @@
 # Overview
-Project Test
+Its the turn of the New Year and I figured that it would be time to redo my portfolio. Funny enough, it was around 11 months ago that I finished my V2 set of changes. 
+
+At one point in time, I was trying to commit myself to writing on a daily basis as a new form of good habit. But that slowly started to fall off after a while. With the turn of the new year, I figured that would pick it back up. But this time, I wouldn't commit to daily entries, but timed ones that comprised of multiple days' or weeks' worth of experiences. 
+
+Its rare that tech twitter posts something that isn't a complete shill. But one of the things that stuck with me was the website developed for McMaster-Carr (https://www.mcmaster.com/) and the ability of it to preload data that was on the next page. This made the pages run farily quick and made usability snappy. Looking at how some of the GitHub APIs weren't returning data fast enough, I felt that this would be a really appropriate usecase for implementing something like that here. I figured that this could be done by wrapping each of the linkable components in another that would "preload" the related data using some hook and pass that information down through the application context. 

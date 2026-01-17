@@ -12,9 +12,10 @@
 					"id": {"type": "string"}, 
 					"createDate": {"type": "number"}, 
 					"tags": {"type": "array", "items": {"type":"string"}}, 
-					"summary": {"type": "string"}
+					"summary": {"type": "string"},
+					"bannerImage": {"type": "string"}
 				}, 
-				"required": ["title", "id", "createDate", "tags", "summary"]
+				"required": ["title", "id", "createDate", "tags", "summary", "bannerImage"]
 			}
 		}
 	}

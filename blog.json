@@ -6,7 +6,8 @@
             "title": "About Me",
             "createDate": 123432, 
             "summary": "An introductory post about myself", 
-            "tags": ["info"]
+            "tags": ["info"],
+            "bannerImage": "https://i.redd.it/dzaejplle1f31.jpg"
         }
     ] 
 }
