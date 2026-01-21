@@ -15,7 +15,7 @@
 					"summary": {"type": "string"},
 					"bannerImage": {"type": "string"}
 				}, 
-				"required": ["title", "id", "createDate", "tags", "summary", "bannerImage"]
+				"required": ["title", "id", "createDate", "tags", "summary"]
 			}
 		}
 	}

@@ -4,18 +4,17 @@
         {
             "id": "about-me", 
             "title": "About Me",
-            "createDate": 1768870828382, 
-            "summary": "An introductory post about myself", 
+            "createDate": 1768955897385, 
+            "summary": "An introductory post about myself.", 
             "tags": ["info"],
             "bannerImage": "https://i.redd.it/dzaejplle1f31.jpg"
         }, 
         {
             "id": "contact-me", 
             "title": "Contact Me",
-            "createDate": 1768870828382, 
+            "createDate": 1768955897385, 
             "summary": "Contact Me!", 
-            "tags": ["info"],
-            "bannerImage": "https://i.redd.it/dzaejplle1f31.jpg"
+            "tags": ["info"]
         }
     ] 
 }
