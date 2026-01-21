@@ -14,7 +14,8 @@
             "title": "Contact Me",
             "createDate": 1768955897385, 
             "summary": "Contact Me!", 
-            "tags": ["info"]
+            "tags": ["info"], 
+            "bannerImage": "https://images.pexels.com/photos/110473/pexels-photo-110473.jpeg"
         }
     ] 
 }
