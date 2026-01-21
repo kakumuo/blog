@@ -16,7 +16,7 @@
             "type": "web-app", 
 
             "makeupLayers": [
-                {"name": "Frontend", "items": [{"tech": "React", "percentage": 100}]}, 
+                {"name": "Frontend", "items": [{"tech": "React", "percentage": 30}, {"tech": "Typescript", "percentage": 60}, {"tech": "Tailwind", "percentage": 10}]}, 
                 {"name": "Backend", "items": [{"tech": "GIT", "percentage": 100}]}
             ]
         }
