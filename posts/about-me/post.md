@@ -1,5 +1,5 @@
 # Who Am I?
-Hi, my name is Kevin. I am a software developer, working {professionally} for around 5 years with general experience dating back to 2014. I enjoy involving myself in various projects in the realms of art, music, programming, physical activities, etc. It is imperative that someone can explore various facets of life, turning themselves into a *swiss army knife* fo a person. A quote (I've forgotten who actually said this) that I tend to live by is:
+Hi, my name is Kevin. I am a software developer, working {[professionally](https://raw.githubusercontent.com/kakumuo/blog/refs/heads/main/posts/about-me/resume.pdf)} for around 5 years with general experience dating back to 2014. I enjoy involving myself in various projects in the realms of art, music, programming, physical activities, etc. It is imperative that someone can explore various facets of life, turning themselves into a *swiss army knife* fo a person. A quote (I've forgotten who actually said this) that I tend to live by is:
 > "There is nothing more vital to the human spirit than accomplishing something truly difficult" 
 
 ## Education
@@ -38,3 +38,5 @@ Now it's been around 2 years since that time and I still feel mostly negative to
 
 # What Now?
 What now? Well, I'm taking the days in stride, that's what. Since moving back home, I've been applying myself to some things that need fixing around the house. I've also taken up different artistic hobbies such as playing piano, doing crochet and digital painting. I still spend the majority of my day writing code and involving myself in the field of IT. Lately I've taken up writing Go and Rust as a means of exploring low level programming and concurrency. With the advent of AI, I've also been involved in implementing it in some projects, while also making sure relegate it to only tooling. I'm actively applying to different positions in hopes that I can find another job; it feels like time is only slipping away. I'm starting to realize that my skill-set really only pertains to ETL, SQL and Java development. And as much as I branch out in personal projects, I'll never have the merit of working professionally. Alas, I keep moving. 
+
+![](https://raw.githubusercontent.com/kakumuo/blog/refs/heads/main/posts/about-me/preview.jpg)
