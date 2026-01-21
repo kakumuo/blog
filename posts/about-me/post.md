@@ -1,5 +1,5 @@
 # Who Am I?
-Hi, my name is Kevin. I am a software developer, working {[professionally](https://raw.githubusercontent.com/kakumuo/blog/refs/heads/main/posts/about-me/resume.pdf)} for around 5 years with general experience dating back to 2014. I enjoy involving myself in various projects in the realms of art, music, programming, physical activities, etc. It is imperative that someone can explore various facets of life, turning themselves into a *swiss army knife* fo a person. A quote (I've forgotten who actually said this) that I tend to live by is:
+Hi, my name is Kevin. I am a software developer, working {[professionally](https://raw.githubusercontent.com/kakumuo/blog/main/posts/about-me/Resume.pdf)} for around 5 years with general experience dating back to 2014. I enjoy involving myself in various projects in the realms of art, music, programming, physical activities, etc. It is imperative that someone can explore various facets of life, turning themselves into a *swiss army knife* fo a person. A quote (I've forgotten who actually said this) that I tend to live by is:
 > "There is nothing more vital to the human spirit than accomplishing something truly difficult" 
 
 ## Education
