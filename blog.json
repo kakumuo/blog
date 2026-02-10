@@ -16,6 +16,14 @@
             "summary": "Contact Me!", 
             "tags": ["info"], 
             "bannerImage": "https://images.pexels.com/photos/110473/pexels-photo-110473.jpeg"
+        },
+        {
+            "id": "the-modern-problem", 
+            "title": "The Modern Problem",
+            "createDate": 1769020438163, 
+            "summary": "Lessons learned from Rust and Go", 
+            "tags": ["programming", "Rust", "Go"], 
+            "bannerImage": "https://images.squarespace-cdn.com/content/v1/5e10bdc20efb8f0d169f85f9/1632583991063-DG67R13E0S7XK244CSVE/rust-vs-go.png?format=1500w"
         }
     ] 
 }
