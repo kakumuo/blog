@@ -19,6 +19,26 @@
                 {"name": "Frontend", "items": [{"tech": "React", "percentage": 30}, {"tech": "Typescript", "percentage": 60}, {"tech": "Tailwind", "percentage": 10}]}, 
                 {"name": "Backend", "items": [{"tech": "GIT", "percentage": 100}]}
             ]
+        }, 
+        {
+            "id": "r2-mod-active-inventory", 
+            "title": "RoR2 | Active Inventory", 
+            "summary": "A mod for Risk of Rain 2",
+            "startDate": 1772686800000, 
+            "endDate": 1777003200000,
+            "hasPost": true, 
+            "git": "https://github.com/kakumuo/R2InventoryArtifact",
+            "url": "https://thunderstore.io/package/foxfen64/R2InventoryArtifact/",
+            "complexity": "difficult", 
+            "status": "inprogress", 
+            "taskSize": "large", 
+            "type": "game-mod", 
+
+            "makeupLayers": [
+                {"name": "Mod", "items": [{"tech": "C#", "percentage": 100}]}, 
+                {"name": "Web-App Frontend", "items": [{"tech": "React", "percentage": 30}, {"tech": "Typescript", "percentage": 60}, {"tech": "Tailwind", "percentage": 10}]}, 
+                {"name": "Web-App Backend", "items": [{"tech": "GIT", "percentage": 100}]}
+            ]
         }
     ]
 }

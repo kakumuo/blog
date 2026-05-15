@@ -11,7 +11,7 @@
                     "title": {"type": "string"},
                     "startDate": {"type": "number"}, 
                     "endDate": {"type": "number"} ,
-                    "type": {"enum": ["craft", "web-app", "desktop-app"]}, 
+                    "type": {"enum": ["craft", "web-app", "desktop-app", "game-mod"]}, 
                     "taskSize": {"enum": ["small", "medium", "large", "xlarge"]} , 
                     "complexity": {"enum": ["easy", "medium", "difficult"]}, 
                     "status": {"enum": ["brainstorming", "inprogress", "complete", "released", "dropped"]}, 
