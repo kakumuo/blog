@@ -2,7 +2,7 @@
 
 
 # Background
-Just some background on this. I enjoy playing video games from time to time, and, after coming off work, I'll lean towards low investment. Typically, these will be perma-death or indie games. One such game is [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2). It's a roguelike where you survive waves of enemies in different environments, collecting items along the way in hopes of escaping the planet. Additionally, it's a game that I have been playing since high school with the first installation. And with around 1,000 hours put into it, I would not only call it my favorite rougelike, but also a game that I find fairly stale. I wanted to find a way to add some difficulty to the game without really having to add new game or character models. So the easiest route for something like that would be with UI implementations using existing game assets.
+Just some background on this. I enjoy playing video games from time to time, and, after coming off work, I'll lean towards low investment. Typically, these will be perma-death or indie games. One such game is [Risk of Rain 2](https://en.wikipedia.org/wiki/Risk_of_Rain_2). It's a roguelike where you survive waves of enemies in different environments, collecting items along the way in hopes of escaping the planet. Additionally, it's a game that I have been playing since high school with the first installation. And with around 1,000 hours put into it, I would not only call it my favorite roguelike, but also a game that I find fairly stale. I wanted to find a way to add some difficulty to the game without really having to add new game or character models. So the easiest route for something like that would be with UI implementations using existing game assets.
 
 
 # Brainstorming
