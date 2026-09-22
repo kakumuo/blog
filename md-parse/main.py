@@ -44,7 +44,7 @@ def copy_html_to_clipboard(fragment: str):
     payload = html_clipboard_payload(fragment)
     html_format = win32clipboard.RegisterClipboardFormat("HTML Format")
 
-    print(payload)
+    # print(payload)
     win32clipboard.OpenClipboard()
     try:
         win32clipboard.EmptyClipboard()
