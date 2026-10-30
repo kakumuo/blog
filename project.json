@@ -47,7 +47,7 @@
             "startDate" : 1792814400000, 
             "endDate"   : 1793246400000,
             "hasPost": true, 
-            "git": "https://github.com/kakumuo/db_contact_mastering.git",
+            "git": "https://github.com/kakumuo/db_contact_mastering",
             "complexity": "medium", 
             "status": "complete", 
             "taskSize": "medium", 
