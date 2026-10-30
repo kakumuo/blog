@@ -39,6 +39,25 @@
                 {"name": "Web-App Frontend", "items": [{"tech": "React", "percentage": 30}, {"tech": "Typescript", "percentage": 60}, {"tech": "Tailwind", "percentage": 10}]}, 
                 {"name": "Web-App Backend", "items": [{"tech": "GIT", "percentage": 100}]}
             ]
+        }, 
+        {
+            "id": "contact-mastering", 
+            "title": "Contact Mastering", 
+            "summary": "A contact mastering pipeline with Databricks",
+            "startDate" : 1792814400000, 
+            "endDate"   : 1793246400000,
+            "hasPost": true, 
+            "git": "https://github.com/kakumuo/db_contact_mastering.git",
+            "complexity": "medium", 
+            "status": "complete", 
+            "taskSize": "medium", 
+            "type": "pipeline", 
+
+            "makeupLayers": [
+                {"name": "Multiprocessing", "items": [{"tech": "Apache Spark", "percentage": 100}]}, 
+                {"name": "Language", "items": [{"tech": "Python", "percentage": 100}]}, 
+                {"name": "Integration", "items": [{"tech": "Databricks", "percentage": 100}]}
+            ]
         }
     ]
 }
